@@ -1,0 +1,12 @@
+This milestone is aiming at having complete User Interface:
+-Main Menu
+-Level Selector
+-Crafting Panel
+-Character Progression Panel
+
+Also there should be a test room for game mechanics and features evaluation.
+At this milestone it should support:
+-Character frame independent movement, attacking, jumping, dying, respawning
+and level uping.
+-World props destruction.
+-Possibly a basic AI to test your attacks on lel.
